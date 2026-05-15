@@ -171,6 +171,7 @@ cd Color-Detection-OpenCV
 pip install -r requirements.txt
 ```
 **Step 4: Verify Project Structure**
+
 Ensure:
 
 - ```colors.csv``` is inside ```Data/```
@@ -207,7 +208,7 @@ python color_detection.py
 To close the application smoothly:
 - Press the *ESC* key while the image window is open.
 - OR press *Ctrl + C* in your terminal.
-- 
+
 ## Common Errors and Fixes
 
 **Error 1: No module named 'cv2'**
