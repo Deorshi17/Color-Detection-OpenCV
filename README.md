@@ -203,6 +203,11 @@ python color_detection.py
   - Color Name
   - RGB Values
 
+**Step 8: Stop the Program**
+To close the application smoothly:
+- Press the *ESC* key while the image window is open.
+- OR press *Ctrl + C* in your terminal.
+- 
 ## Common Errors and Fixes
 
 **Error 1: No module named 'cv2'**
