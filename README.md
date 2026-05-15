@@ -175,6 +175,7 @@ Ensure:
 
 - ```colors.csv``` is inside ```Data/```
 - Images are inside ```Image/```
+
 **Step 5: Update Image Path (Optional)**
 
 Inside ```color_detection.py```, select any image:
@@ -190,6 +191,7 @@ You can replace:
 - ```pic3.jpg```
 - ```pic4.jpg```
 - ```pic5.jpg```
+
 **Step 6: Run the Program**
 ```bash
 python color_detection.py
@@ -221,7 +223,7 @@ Pandas library is missing.
 pip install pandas
 ```
 
-***Error 3: OpenCV Resize Error**
+**Error 3: OpenCV Resize Error**
 ***Error Message***
 ```
 cv2.error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
