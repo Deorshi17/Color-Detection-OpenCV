@@ -141,8 +141,8 @@ The application should:
 - Extract RGB values accurately
 - Match colors with predefined dataset
 - Display:
- - Color Name
- - RGB Values
+  - Color Name
+  - RGB Values
 - Work smoothly for all provided sample images
 
 ## Key Insights
@@ -221,6 +221,7 @@ pip install opencv-python
 ```
 
 **Error 2: No module named 'pandas'**
+
 ***Cause***
 Pandas library is missing.
 
@@ -230,10 +231,12 @@ pip install pandas
 ```
 
 **Error 3: OpenCV Resize Error**
+
 ***Error Message***
 ```
 cv2.error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
 ```
+
 ***Cause***
 
 OpenCV could not load the image because:
