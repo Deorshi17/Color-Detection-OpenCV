@@ -1,4 +1,4 @@
-# Color-Detection-OpenCV
+# Color Detection using OpenCV & Python
 **An OpenCV-based Python application that detects colors from images by analyzing RGB values and matching them with predefined color names.**
 ## Overview
 Color-Detection-OpenCV is a real-time color recognition project developed using Python and OpenCV. The system allows users to detect colors directly from an image by double-clicking on any pixel area.
