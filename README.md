@@ -212,7 +212,9 @@ To close the application smoothly:
 ## Common Errors and Fixes
 
 **Error 1: No module named 'cv2'**
+
 ***Cause***
+
 OpenCV is not installed.
 
 ***Fix***
@@ -223,6 +225,7 @@ pip install opencv-python
 **Error 2: No module named 'pandas'**
 
 ***Cause***
+
 Pandas library is missing.
 
 ***Fix***
